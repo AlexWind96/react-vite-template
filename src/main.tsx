@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import './index.css'
+import './assets/scss/index.scss'
 import './lib/axios'
 import './lib/i18n'
 
